@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Survey App</string>
+    <string name="phone_hint">e.g. +254722000000</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="answer">Answer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="other">Other</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+</resources>
