@@ -1,6 +1,7 @@
 # SurveyApp
 
 #Task 1.
+
 The project requires Android Studio Bumblebee (2021.1.1).
 
 Sync the project to download all the dependencies.
